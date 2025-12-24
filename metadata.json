@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Drive Notebook",
+  "description": "A notebook-style application that connects to Google Drive, fetches documents, and uses Gemini 3 to analyze them with customizable system prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
